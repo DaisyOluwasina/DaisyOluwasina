@@ -13,7 +13,7 @@ I use data and economics to untangle real-world problems. My work bridges rigoro
 - Climate economics & carbon pricing
 - Health, energy, and behavioural economics
 - Cryptoeconomics & regulation
-- Games, Movies, Tv Shows and Music!!!
+- Also a fan of: games, movies, TV shows, and good music 🎶
 
 ## 🔧 Skills & Tools
 `R` • `Python` • `Stata` • `Excel VBA` • `SQL`  
