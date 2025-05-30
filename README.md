@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Daisy Oluwasina
-PhD Economist | Data Scientist | Policy Consultant
+# 👋 Hi, I’m Dr Daisy Oluwasina PhD 
+Economist | Data Scientist | Policy Consultant 
 
 I use data and economics to untangle real-world problems. My work bridges rigorous econometrics, financial insight, and clean communication — from crypto to carbon, policy to pricing.
 
@@ -9,12 +9,11 @@ I use data and economics to untangle real-world problems. My work bridges rigoro
 - 🧾 **Freelance Portfolio** — Cost-benefit reports, dashboards, and VBA tools
 
 ## 🧠 Interests
-- GAMES AND MOVIES!!!!
 - Monetary policy & financial markets
 - Climate economics & carbon pricing
 - Health, energy, and behavioural economics
 - Cryptoeconomics & regulation
-- MUSIC AND TVSHOWS
+- Games, Movies, Tv Shows and Music!!!
 
 ## 🔧 Skills & Tools
 `R` • `Python` • `Stata` • `Excel VBA` • `SQL`  
